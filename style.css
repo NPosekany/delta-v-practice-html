@@ -1,5 +1,6 @@
 body {
   background-color: #F3EEC3;
+  height: 550px;
 
 }
 header {
@@ -31,11 +32,14 @@ li {
 
 }
 
-img {
+iframe {
   float: right;
-  margin: 35px ;
+  margin: 35px 100px 10px 0px;
   border-style: solid;
   border-width: 15px;
   border-color: #385F71;
 }
-<iframe width="901" height="507" src="https://www.youtube.com/embed/OGj8OneMjek" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+footer {
+  margin: 180px
+
+}
